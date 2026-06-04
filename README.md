@@ -4,8 +4,7 @@ Diseño de la primera tienda online (mobile-first) para **Santo Estudio**, una m
 
 > **Rol:** Diseño de producto / UI · **Herramienta:** Figma · **Tipo:** Proyecto real, validado con el dueño de la marca.
 
-<!-- Reemplazá esta línea por la imagen general de tus 4 pantallas -->
-![Pantallas de la tienda Santo Estudio](./img/overview.png)
+![Pantallas de la tienda Santo Estudio](img/overview.png)
 
 ---
 
@@ -57,7 +56,6 @@ La pantalla "Pedí tu impresión" no asume que el cliente sea técnico. Ofrece t
 
 ## Pantallas
 
-<!-- Reemplazá cada línea por la imagen correspondiente -->
 
 **Home** — la cara de la tienda, con las dos puertas de entrada (comprar y pedido personalizado).
 ![Home](./img/home.png)
@@ -69,7 +67,7 @@ La pantalla "Pedí tu impresión" no asume que el cliente sea técnico. Ofrece t
 ![Ficha de producto](./img/producto.png)
 
 **Pedí tu impresión** — el flujo de pedido personalizado.
-![Pedí tu impresión](./img/pedido.png)
+![Pedí tu impresión](img/pedido.png)
 
 ---
 
